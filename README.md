@@ -3,9 +3,7 @@
 Python Quiz App
 
 A simple command-line quiz game built in Python using **Object-Oriented Programming (OOP)** concepts.  
-This project is designed to test basic Python skills and demonstrate clean code architecture for beginners.
-
----
+This project is designed to test basic Python skills and demonstrate clean code architecture for beginners
 
 ## Features
 -  Multiple-choice and true/false questions
@@ -13,8 +11,6 @@ This project is designed to test basic Python skills and demonstrate clean code 
 -  User-friendly CLI interface
 -  Modular OOP structure
 -  Easy to add or edit questions
-
----
 
 ##  How to Run
 1. Clone this repository
